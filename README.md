@@ -2,7 +2,6 @@
 
 **Version**     : Python 3.7.3<br>
 **IDE**           : VSCODE<br>
-**Author**      : Titus Choi<br>
 **Description** : This is computer science fundamentals: data structures.<br>
 **Reference**   : https://www.fun-coding.org/daveblog.html
 
