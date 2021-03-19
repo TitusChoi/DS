@@ -6,7 +6,7 @@
 **Description** : This is computer science fundamentals: data structures.<br>
 **Order**       : array -> hash -> queue -> stack -> deque -> linked list -> tree -> graph<br>
 
-**Contents**<br>
+**0. Contents**<br>
 <img src="https://user-images.githubusercontent.com/58930352/111784186-715e2c80-88fe-11eb-8325-b75e5f0cfaf5.jpg" width="50%">
 
 #### **1. Array**<br>
