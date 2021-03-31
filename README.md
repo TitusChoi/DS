@@ -2,7 +2,7 @@
 
 **Version**     : Python 3.7.3<br>
 **IDE**           : VSCODE<br>
-**Description** : This is computer science fundamentals: data structures.<br>
+**Description** : The Data Structure(DS) Library is a self-contained python library for computer science fundamentals.<br>
 **Reference**   : https://www.fun-coding.org/daveblog.html
 
 **0. Contents**<br>
