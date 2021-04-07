@@ -1,11 +1,18 @@
-# Data Structure
+# Data Structure [![Build Status][travis-image]][travis-url]
+The Data Structure(DS) Library is a self-contained python library for computer science fundamentals.
 
-**Version**     : Python 3.7.3<br>
-**IDE**           : VSCODE<br>
-**Description** : The Data Structure(DS) Library is a self-contained python library for computer science fundamentals.<br>
-**Reference**   : https://www.fun-coding.org/daveblog.html
+## Installation
+Version : Python 3.7.3<br>
+```sh
+python -m venv <your_path>
+cd ./<your_path>/Script
+activate.bat
+```
 
-**0. Contents**<br>
+## Usage
+It is possible to learn computer science fundamentals that directly implement data structure.<br>
+
+## Contents
 <img src="https://user-images.githubusercontent.com/58930352/111784186-715e2c80-88fe-11eb-8325-b75e5f0cfaf5.jpg" width="60%">
 
 #### **1. Array**<br>
@@ -57,3 +64,10 @@
 <img src="https://user-images.githubusercontent.com/58930352/111784831-30b2e300-88ff-11eb-87f7-b1db9681e69e.jpg" width="60%">
 <img src="https://user-images.githubusercontent.com/58930352/111784832-30b2e300-88ff-11eb-9994-889c29b0417e.jpg" width="60%">
 <img src="https://user-images.githubusercontent.com/58930352/111784834-314b7980-88ff-11eb-9e24-d310342ced4f.jpg" width="60%">
+
+## Reference
+https://www.fun-coding.org/daveblog.html
+
+<!-- Markdown link & img dfn's -->
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
