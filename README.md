@@ -1,4 +1,4 @@
-# Data Structure [![Build Status][travis-image]][travis-url]
+# Data Structure
 The Data Structure(DS) Library is a self-contained python library for computer science fundamentals.
 
 ## Installation
@@ -67,7 +67,3 @@ It is possible to learn computer science fundamentals that directly implement da
 
 ## Reference
 https://www.fun-coding.org/daveblog.html
-
-<!-- Markdown link & img dfn's -->
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
