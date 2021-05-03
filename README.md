@@ -1,4 +1,4 @@
-# Data Structure
+# Data_Structure
 The Data Structure(DS) Library is a self-contained python library for computer science fundamentals.
 
 ## Installation
